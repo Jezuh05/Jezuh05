@@ -27,12 +27,21 @@ Apasionado por la arquitectura web, la seguridad en backend, la infraestructura 
 - **Rendimiento:** Validación cruzada con `train_test_split` alcanzando un **71% de exactitud (accuracy)** en test sobre leyes del Congreso (L11-L15) y serialización con `joblib`.
 - **Stack:** `Python`, `Scikit-learn`, `NLTK`, `PyMuPDF`, `Pandas`, `Jupyter Notebook`.
 
+#### 📱 [GTools – Software de Tarificación y Presupuestos](https://github.com/Jezuh05/GTools)
+*Aplicación de escritorio para cálculo comercial automatizado de presupuestos de reparación y venta de telefonía.*
+- **Software a Medida:** Solución creada e implantada para negocio local de telefonía que redujo a cero los errores de cálculo y estandarizó los márgenes brutos.
+- **Lógica de Negocio:** Algoritmo de cálculo de PVP con desglose de costes mayoristas, canon digital, márgenes de intervención y redondeo comercial psicológico.
+- **Seguridad Criptográfica:** Sistema de protección y licenciamiento propio vinculado a hardware mediante hash de MAC Address (`NetworkInterface` y `BigInteger`) y validación de licencias cifradas con AES.
+- **Stack:** `C#`, `.NET 8.0 Windows Forms`, `Visual Studio`.
+
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 **Desarrollo Web & Backend:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
