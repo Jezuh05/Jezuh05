@@ -13,7 +13,7 @@ Apasionado por la arquitectura web, la seguridad en backend, la infraestructura 
 
 ### 💻 Proyectos Destacados
 
-#### 🐦 [Mundo Canario – E-Commerce Full-Stack](https://github.com/Jezuh05/mundo-canario-tienda)
+#### 🐦 [Mundo Canario – E-Commerce Full-Stack](https://github.com/Jezuh05/mundo-canario-tienda) · [🌐 **Ver Demo en Vivo**](https://mundocanario.alwaysdata.net/)
 *Plataforma web de comercio electrónico temática con catálogo dinámico y pasarela de pago.*
 - **Backend & Arquitectura:** Desarrollo PHP modular con PDO, consultas preparadas contra inyección SQL, control de sesiones seguras (`password_hash`, mitigación de *session fixation*) y **transacciones ACID** en el procesamiento de pedidos.
 - **Seguridad Web:** Protección contra IDOR en confirmación de pedidos, control de concurrencia de inventario y subida de archivos blindada con validación estricta de extensiones y tipo MIME (`finfo`).
