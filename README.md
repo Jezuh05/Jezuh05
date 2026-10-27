@@ -6,7 +6,7 @@ Apasionado por el desarrollo web, la resolución de problemas técnicos y la cre
 📍 **Ubicación:** Santa Pola / Elche (Alicante)  
 🎯 **Objetivo:** En búsqueda activa de empresa para la **Formación en Empresa (FE)** (a partir de febrero de 2027) para aportar en proyectos reales de desarrollo backend, frontend o full-stack.
 
-Linkedin: https://www.linkedin.com/in/jesus-nunez-fernanez/
+Linkedin: https://www.linkedin.com/in/jesus-nunez-fernandez/
 
 ---
 
